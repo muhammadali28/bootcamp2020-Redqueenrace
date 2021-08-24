@@ -1,5 +1,5 @@
 import React from 'react';
-import { RedQueenRace } from './RedQueenRace';
+import  RedQueenRace  from './RedQueenRace/index';
 
 function App() {
   return (
